@@ -1,2 +1,2 @@
 Hello
-The same main sample file to be modified by dev1 and dev2 
+The sample file modified by dev2 
