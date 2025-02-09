@@ -1,2 +1,3 @@
-Hello
-The sample file modified by dev2 
+Hai
+Welcome to sample file
+The sample file modified by dev1
